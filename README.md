@@ -9,11 +9,11 @@ Given data about movies, discern various trends for the stakeholder that'll help
 
 ### File Summary
 
-- _1-process.ipynb:_ Takes data from IMDb's publicly available dataset and processes it according to stakeholder specifications.
-- _2a-efficient-API.ipynb:_ Queries the TMDb API and stores the results in the `/Data` directory.
-- _2b-EDA.ipynb:_ Explores the TMDb API data to discern trends the stakeholder may find pertinent to their goals.
-- _3-SQL.ipynb:_ Processes all the gathered data into a MySQL database for the final hypothesis testing.
-- _4-hypothesis-testing.ipynb:_
+- **_1-process.ipynb:_** Takes data from IMDb's publicly available dataset and processes it according to stakeholder specifications.
+- **_2a-efficient-API.ipynb:_** Queries the TMDb API and stores the results in the `/Data` directory.
+- **_2b-EDA.ipynb:_** Explores the TMDb API data to discern trends the stakeholder may find pertinent to their goals.
+- **_3-SQL.ipynb:_** Processes all the gathered data into a MySQL database for the final hypothesis testing.
+- **_4-hypothesis-testing.ipynb:_** Tests various stakeholder hypotheses to give them information about what makes a movie successful.
 
 ### Data Attribution
 The data comes from two sources:
@@ -32,6 +32,13 @@ The data comes from two sources:
 
 ## Results
 
-### Data Exploration
+### Exploratory Data Analysis
+
+At a high level, a few trends were apparent:
+- Most of the data had no valid budget or revenue info. Those that didn't were filtered out in the end.
+- There was a severe class imbalance within the data, where rated R was most represented while rated G was least represented.
+- Though rated G movies were least represented, on average their revenue almost tripled their budget. In contrast, on average the revenue for rated R movies slightly doubled their budget.
 
 ### Hypotheses Testing
+
+### Recommendations
