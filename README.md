@@ -1,16 +1,21 @@
 # Movie Success Analysis
+
 ## Overview
+
+## Goal
+My stakeholders want to know what makes a movie successful with regard to budget, revenue, and MPAA rating (G, PG, PG-13, R).
+
 ### Data Attribution
 The Data comes from two sources
 1. TMDb API
-<pre>
-<img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" width="200" />
-</pre>
+    <pre>
+    <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" width="200" />
+    </pre>
 2. IMDb's publicly available dataset:
-<pre>
-Information courtesy of
-IMDb
-(https://www.imdb.com).
-Used with permission.
-</pre>
-Source: https://datasets.imdbws.com/
+    <pre>
+    Information courtesy of
+    IMDb
+    (https://www.imdb.com).
+    Used with permission.
+    </pre>
+    Source: https://datasets.imdbws.com/
