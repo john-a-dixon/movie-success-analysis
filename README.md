@@ -41,11 +41,14 @@ At a high level, a few trends were apparent:
 
 ### Hypotheses Testing
 
-1. _Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?_
+1. **_Does the MPAA rating of a movie (G/PG/PG-13/R) affect how much revenue the movie generates?_**
     - The MPAA rating affects the generated revenue. Rated G and PG movies generate the most revenue while rated R movies generate the least.
-2. _Does a movie being over 2.5 hours long significantly affect its revenue?_
-    - 
-3. _Does a high rating (rated >= 7.0) affect whether a movie's revenue will exceed its budget?_
-    - 
+2. **_Does a movie being over 2.5 hours long significantly affect its revenue?_**
+    - Movies that are over 2.5 hours generate significantly more revenue than movies under 2.5 hours.
+3. **_Does a high rating (rated >= 7.0) affect whether a movie's revenue will exceed its budget?_**
+    - Movies that are highly rated will almost certainly generate revenue that exceeds it budget.
 
 ### Recommendations
+
+Based on my results, I recommend the following:
+I recommend my stakeholders to invest in a movie that is rated G or PG. Likewise, I suggest that the script is written well enough to gain a high rating and contain a wonderful, long story.  
