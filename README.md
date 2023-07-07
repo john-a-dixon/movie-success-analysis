@@ -11,8 +11,8 @@ Given data about movies, discern various trends for the stakeholder that'll help
 
 - _1-process.ipynb:_ Takes data from IMDb's publicly available dataset and processes it according to stakeholder specifications.
 - _2a-efficient-API.ipynb:_ Queries the TMDb API and stores the results in the `/Data` directory.
-- _2b-EDA.ipynb:_
-- _3-SQL.ipynb:_
+- _2b-EDA.ipynb:_ Explores the TMDb API data to discern trends the stakeholder may find pertinent to their goals.
+- _3-SQL.ipynb:_ Processes all the gathered data into a MySQL database for the final hypothesis testing.
 - _4-hypothesis-testing.ipynb:_
 
 ### Data Attribution
