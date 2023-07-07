@@ -2,15 +2,19 @@
 
 ## Overview
 
-#### Goal
+### Goal
 Given data about movies, discern various trends for the stakeholder that'll help them understand what makes a movie successful. Then, using statistical analysis, test various hypotheses proposed by the stakeholder to verify (with certainty) what makes a movie successful, specifically with regard to MPAA Rating, Budget, and Revenue.
 
-#### File Summary
+### File Summary
 
+- _1-process.ipynb:_ 
+- _2a-efficient-API.ipynb:_
+- _2b-EDA.ipynb:_
+- _3-SQL.ipynb:_
+- _4-hypothesis-testing.ipynb:_
 
-
-#### Data Attribution
-The Data comes from two sources
+### Data Attribution
+The data comes from two sources:
 1. TMDb API
     <pre>
     <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" width="200" />
@@ -26,6 +30,6 @@ The Data comes from two sources
 
 ## Results
 
-#### Data Exploration
+### Data Exploration
 
-#### Hypotheses Testing
+### Hypotheses Testing
