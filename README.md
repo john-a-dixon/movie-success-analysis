@@ -12,7 +12,7 @@ Given data about movies, discern various trends for the stakeholder that'll help
 #### Data Attribution
 The Data comes from two sources
 1. TMDb API
-    <pre width="50%">
+    <pre>
     <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_2-d537fb228cf3ded904ef09b136fe3fec72548ebc1fea3fbbd1ad9e36364db38b.svg" width="200" />
     </pre>
 2. IMDb's publicly available dataset:
